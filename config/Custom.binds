@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="UTF-8" ?>
+<?xml version="1.0" encoding="UTF-8" ?>
 <Root>
 	<KeyboardLayout>fi-FI</KeyboardLayout>
 	<MouseXMode Value="" />
@@ -477,7 +477,7 @@
 	</UI_Right>
 	<UI_Select>
 		<Primary Device="Keyboard" Key="Key_Enter" />
-		<Secondary Device="{NoDevice}" Key="" />
+		<Secondary Device="068EC010" Key="Joy_1" />
 	</UI_Select>
 	<UI_Back>
 		<Primary Device="Keyboard" Key="Key_Backspace" />
