@@ -150,7 +150,7 @@
 		<Secondary Device="{NoDevice}" Key="" />
 	</SetSpeed50>
 	<SetSpeed75>
-		<Primary Device="{NoDevice}" Key="" />
+		<Primary Device="Keyboard" Key="Key_F" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</SetSpeed75>
 	<SetSpeed100>
