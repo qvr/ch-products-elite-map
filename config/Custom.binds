@@ -27,7 +27,7 @@
 		<Primary Device="Keyboard" Key="Key_O" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</YawRightButton>
-	<YawToRollMode Value="Bindings_YawIntoRollNone" />
+	<YawToRollMode Value="Bindings_YawIntoRollTime" />
 	<YawToRollSensitivity Value="0.40000001" />
 	<YawToRollButton>
 		<Primary Device="{NoDevice}" Key="" />
@@ -170,7 +170,7 @@
 		<Primary Device="{NoDevice}" Key="" />
 		<Secondary Device="{NoDevice}" Key="" />
 	</YawRightButton_Landing>
-	<YawToRollMode_Landing Value="" />
+	<YawToRollMode_Landing Value="Bindings_YawIntoRollNone" />
 	<PitchAxis_Landing>
 		<Binding Device="{NoDevice}" Key="" />
 		<Inverted Value="0" />
